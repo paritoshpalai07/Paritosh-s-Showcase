@@ -1,0 +1,23 @@
+.skills-box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 3.125rem;
+    gap: 1.875rem;
+}
+
+.skill-box{
+    height: 9.375rem;
+    width: 9.375rem;
+    padding: 1.25rem;
+    border: 0.0625rem solid #7a7a7a;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.625rem;
+}
+
+.skill-box img{
+    height: 3.125rem;
+}
