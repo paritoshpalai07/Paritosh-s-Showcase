@@ -37,7 +37,7 @@ This portfolio website serves as a centralized platform to:
 - Add multilingual support for a global audience.
 
 ## 🤝 Connect with Me
-- **Email:** [paritosh@example.com](mailto:paritoshpalai07.com)
+- **Email:** [paritoshpalai07@gmail.com](mailto:paritoshpalai07.com)
 - **LinkedIn:** [Paritosh Palai](https://linkedin.com/in/paritoshpalai)
 - **GitHub:** [github.com/paritoshpalai](https://github.com/paritoshpalai)
 
