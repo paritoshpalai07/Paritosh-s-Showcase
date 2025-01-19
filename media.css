@@ -1,0 +1,25 @@
+@media (max-width: 1200px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 960px) {
+  html {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 550px) {
+  html {
+    font-size: 8px;
+  }
+  nav ul {
+    display: flex;
+    align-items: center;
+    gap: 1.875rem;
+  }
+  #slash {
+    display: none;
+  }
+}

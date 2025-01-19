@@ -1,0 +1,113 @@
+.projects {
+  padding: 20px;
+  border-top: 1px solid #7a7a7a;
+  margin-top: 50px;
+}
+
+.project-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.project-box {
+  /* height: 550px; */
+  width: 31.25rem;
+  margin-top: 4.375rem;
+  border: 1px solid #7a7a7a;
+  text-align: left;
+  padding: 1.25rem;
+}
+
+.project-box:hover{
+  box-shadow: 10px 10px #e6db74;
+  transition: .2s all;
+}
+
+.calculator .project-image {
+  height: 15.625rem;
+  width: 100%;
+  background-image: url("images/calculator.png");
+  background-position: center;
+  background-size: cover;
+}
+
+.project-name {
+  margin-top: 0.625rem;
+  font-size: 1.5rem;
+}
+
+.project-description {
+  margin-top: 0.625rem;
+  font-size: 1.2rem;
+  color: #e6db74;
+}
+
+.description-headign {
+  margin-top: 0.625rem;
+  color: #ffffff;
+}
+.description-text {
+  margin-top: 0.625rem;
+}
+
+.visit-btn {
+  margin-top: 0.625rem;
+  height: 1.875rem;
+  width: 6.25rem;
+  outline: none;
+  border: none;
+  background-color: #2fcbef;
+  font-size: 1rem;
+}
+
+.visit-btn:hover{
+  background-color: #9a99ff;
+}
+
+.visit-btn a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.to-do-list-app .project-image {
+  height: 15.625rem;
+  width: 100%;
+  background-image: url("images/to-do-list.png");
+  background-position: center;
+  background-size: cover;
+}
+
+.tic-tac-toe .project-image {
+  height: 15.625rem;
+  width: 100%;
+  background-image: url("images/tic-tac-toe.png");
+  background-position: center;
+  background-size: cover;
+}
+
+.learning-logs .project-image {
+  height: 15.625rem;
+  width: 100%;
+  background-image: url("images/learning_logs.png");
+  background-position: center;
+  background-size: cover;
+}
+
+.vidnote .project-image{
+  height: 15.625rem;
+  width: 100%;
+  background-image: url("images/vidnote.png");
+  background-position: center;
+  background-size: cover;
+  border: 1px solid #7a7a7a;
+}
+
+.sorting-visualizer .project-image{
+  height: 15.625rem;
+  width: 100%;
+  background-image: url("images/sorting.png");
+  background-position: center;
+  background-size: cover;
+  border: 1px solid #7a7a7a;
+}

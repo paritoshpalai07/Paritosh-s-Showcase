@@ -1,0 +1,28 @@
+.about {
+  margin-left: 2.6875rem;
+  margin-right: 2.6875rem;
+  color: #ffffff;
+  text-align: center;
+  border-top: 0.0625rem solid #7a7a7a;
+  padding: 3.125rem;
+}
+
+.about .symbol {
+  text-align: center;
+  font-size: 2rem;
+  color: #9a99ff;
+  /* margin-top: 5px; */
+}
+
+.heading {
+  font-size: 5rem;
+  margin-top: 1.875rem;
+}
+
+.description {
+  /* margin-top: 20px; */
+  width: 80%;
+  margin: 1.875rem auto auto auto;
+  font-size: 1.5rem;
+  color: #e6db74;
+}
